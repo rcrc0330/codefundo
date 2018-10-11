@@ -2,14 +2,14 @@
 
 ## What are we planning to build
     
-    An Android app to provide help in after flood regulation and management by different NGO's and Goverment organisations. 
+    An Android app which alert user and give them safety instructions if there is a flood forecast and  provide help if they are affected by flood by providing their location and details to NGO's, goverment organisations and relatives 
 
 
 ## How does it work
 
     * The App takes some basic information from user and permission to monitor the user mobile's GPS location. 
     
-    * The App is able to provide instructions for emergency situations.
+    * The App is able to provide DO's and DONT's for emergency situations along with helpline numbers which will prove useful in case of emergency situations.
     
     * The App will ALERT the user about any nearby floods (in a specified diameter from location of user).
     
@@ -25,11 +25,11 @@
 
     * First user will install the app.
     
-    * User will asked permission to allow using Real-Time GPS location while installing the app along with basic permissions.
+    * User will be asked permission to allow using Real-Time GPS location (while installing the app) along with basic permissions.
     
     * User will be required to provide basic details (during first time login) about him/her which will be shared with appropriate agencies in case of emergency.
     
-    * User will be asked to provide the list of contacts which will be sent the SOS during an emergency.
+    * User will be asked to provide the list of contacts which will be sent the SOS message during an emergency.
     
 ## What dataset(s) are we using
     *List of websites used for collecting data:- 
