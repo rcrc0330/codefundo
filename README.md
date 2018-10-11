@@ -52,4 +52,4 @@
          5.[Lists of NGO's](https://ngosindia.com/ngos-of-india/)
          
          6.[Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
-    
+    *
