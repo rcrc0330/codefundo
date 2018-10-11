@@ -48,5 +48,8 @@
     2. JSON:-
               For collection useful data from websites
               
-    3. [API](https://gpstrackit.com/open-api/)
-          
+    3. GPS API:-
+                 For taking real-time location
+     
+     4. SMS API:-
+                 For sending SOS during emergency
