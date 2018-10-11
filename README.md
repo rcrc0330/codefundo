@@ -20,6 +20,7 @@
     * Also, the App would forward the details and GPS coordinates of the person along with a SOS message through SMS to a list of contacts (provided by user), this feature will also help the one with poor or no internet connectivity.
     
    [buu0](https://gpstrackit.com/open-api/)
+   [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
 
 ## How users can get started with the project
 
