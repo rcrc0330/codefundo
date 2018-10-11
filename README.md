@@ -19,14 +19,7 @@
     
     * Also, the App would forward the details and GPS coordinates of the person along with a SOS message through SMS to a list of contacts (provided by user), this feature will also help the one with poor or no internet connectivity.
     
-   [buu0](https://gpstrackit.com/open-api/)
-   [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
-    1. [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
-        2. [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
-        3. [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
-        4. [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
-        5. [Lists of NGO's](https://ngosindia.com/ngos-of-india/)
-        6. [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
+
 
 ## How users can get started with the project
 
@@ -39,7 +32,7 @@
     * User will be asked to provide the list of contacts which will be sent the SOS during an emergency.
     
 ## What dataset(s) are we using
-*ssssanann
+ *List of websites 
         1. [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
         2. [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
         3. [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
