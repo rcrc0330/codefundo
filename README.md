@@ -17,4 +17,20 @@
     
     * In case emergency mode activates (which can be determined by either user input or the monitored GPS position or both) app sends the user's basic information and GPS location to a different database consisting of other user's data that are affected by the same.This database can then be provided to different Goverment authorities and NGO's concerned with helping the flood victims.
     
-    * Also, the App would forward the details and GPS coordinates of the person along with a SOS message through SMS to a list of contacts (provided by user), this feature will also help the one with poor or no internet connectivity
+    * Also, the App would forward the details and GPS coordinates of the person along with a SOS message through SMS to a list of contacts (provided by user), this feature will also help the one with poor or no internet connectivity.
+    
+
+
+## How users can get started with the project
+
+    * First user will install the app.
+    
+    * User will asked permission to allow using Real-Time GPS location while installing the app along with basic permissions.
+    
+    * User will be required to provide basic details (during first time login) about him/her which will be shared with appropriate agencies in case of emergency.
+    
+    * User will be asked to provide the list of contacts which will be sent the SOS during an emergency.
+    
+## What dataset(s) are we using
+
+    * 
