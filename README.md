@@ -34,7 +34,7 @@
 ## What dataset(s) are we using
 
     * We are using data from the following goverment sites:-
-        1. [Flood forecasting bulletins](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
+        1. [source to clone the repository](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
         2. [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
         3. [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
         4. [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
@@ -42,5 +42,5 @@
         6. [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
         
  ## What Technologies are we using
-[source to clone the repository](https://github.com/joselusl/aruco_gazebo.git)
+(https://github.com/joselusl/aruco_gazebo.git)
     * 
