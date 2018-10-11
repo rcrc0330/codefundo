@@ -33,7 +33,6 @@
     
 ## What dataset(s) are we using
 
-    * We are using data from the following goverment sites
          [source to clone the repository](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
          [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
          [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
