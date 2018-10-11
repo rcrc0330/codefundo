@@ -32,13 +32,13 @@
     * User will be asked to provide the list of contacts which will be sent the SOS during an emergency.
     
 ## What dataset(s) are we using
- *List of websites 
-        1. [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
-        2. [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
-        3. [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
-        4. [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
-        5. [Lists of NGO's](https://ngosindia.com/ngos-of-india/)
-        6. [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
+    *List of websites used for collecting data:- 
+1. For list of flood affected areas- [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
+2. For checking water level of rivers nearby- [Water level of river](http://india-water.gov.in/ffs/hydrograph/)
+3. For checking previous forecasting effectiveness- [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
+4. For Instuctions for Emergency situations- [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
+5. For List of NGO's- [Lists of NGO's](https://ngosindia.com/ngos-of-india/)
+6. For List of Goverment agencies- [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
         
  ## What Technologies are we using
  
