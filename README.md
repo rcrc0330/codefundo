@@ -2,7 +2,7 @@
 
 ## What are we planning to build
     
-    An Android app which alert user and give them safety instructions if there is a flood forecast and  provide help if they are affected by flood by providing their location and details to NGO's, goverment organisations and relatives 
+    An Android app for alerting user and giving safety instructions in case of a flood forecast; Also providing their location and details to NGO's, goverment organisations and relatives.
 
 
 ## How does it work
