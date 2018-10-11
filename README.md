@@ -19,7 +19,7 @@
     
     * Also, the App would forward the details and GPS coordinates of the person along with a SOS message through SMS to a list of contacts (provided by user), this feature will also help the one with poor or no internet connectivity.
     
-   [buu0] (https://gpstrackit.com/open-api/)
+   [buu0](https://gpstrackit.com/open-api/)
 
 ## How users can get started with the project
 
