@@ -41,7 +41,7 @@
          [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
         
  ## What Technologies are we using
-          [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
+         [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
          [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
          [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
          [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
@@ -49,4 +49,13 @@
          [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
          
          [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
+         
+ ## skss
+ 
+         [Flood forecast](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
+         [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
+         [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
+         [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
+         [Lists of NGO's](https://ngosindia.com/ngos-of-india/)
+         [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
           
