@@ -43,4 +43,8 @@
  ## What Technologies are we using
  [source to clone the repository](http://www.india-water.gov.in/ffs/flood-forecasted-bulletins/for-level-forecasted-sites/)
  [Water level condition of near river](http://india-water.gov.in/ffs/hydrograph/)
+ [Previous Forecastings](http://www.india-wris.nrsc.gov.in/wrpinfo/index.php?title=CWC_National_Flood_Forecasting_Network)
+         [Measures for Emergency situations](https://ndma.gov.in/en/do-s-and-dont-s.html)
+         [Lists of NGO's](https://ngosindia.com/ngos-of-india/)
+         [Lists of Disaster management authorities](https://www.gktoday.in/gk/disaster-management-agencies-of-india/)
     * 
